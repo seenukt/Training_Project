@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Redbus Home_Page _design</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">This is help fragment </string>
+    <string name="hai_welcome">Hai welcome</string>
+    <string name="this_is_your_account_details">This is Your Account Details</string>
+    <string name="booking_details">Booking Details</string>
+</resources>
